@@ -1,0 +1,2 @@
+ProjectionCode: EPSG:32733
+ProjectionDefinition: +proj=utm +zone=33 +south +datum=WGS84 +units=m +no_defs
